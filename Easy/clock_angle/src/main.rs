@@ -24,5 +24,5 @@ fn get_angle_between_hands(hours: f32, mins: u8) -> f32 {
 }
 
 fn main() {
-    println!("{}", get_angle_between_hands(3.0, 40));
+    println!("{}", get_angle_between_hands(12.0, 15).abs());
 }
