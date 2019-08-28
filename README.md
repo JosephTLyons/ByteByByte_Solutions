@@ -1,6 +1,6 @@
 # ByteByByte_Solutions
-My solutions to the problems at
-[Byte by Byte](https://www.byte-by-byte.com/coding-interview-questions/)
+My solutions to the interview problems at
+[ByteByByte](https://www.byte-by-byte.com/coding-interview-questions/)
 
 # Problems
 - Easy
