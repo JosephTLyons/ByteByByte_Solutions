@@ -20,9 +20,15 @@ fn convert_hours_to_min_marker(hours: f32, mins: u8) -> f32 {
 fn get_angle_between_hands(hours: f32, mins: u8) -> f32 {
     let angle_of_min_hand = get_angle_of_minute_marker(mins.into());
     let angle_of_hour_hand = get_angle_of_minute_marker(convert_hours_to_min_marker(hours, mins));
-    (angle_of_min_hand - angle_of_hour_hand)
+    let mut angle_between_hands = (angle_of_min_hand - angle_of_hour_hand).abs();
+
+    if angle_between_hands > 180.0 {
+        angle_between_hands -= 180.0
+    }
+
+    angle_between_hands
 }
 
 fn main() {
-    println!("{}", get_angle_between_hands(12.0, 15).abs());
+    println!("{}", get_angle_between_hands(12.0, 15);
 }
