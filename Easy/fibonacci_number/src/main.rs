@@ -6,7 +6,7 @@ fn fib_rec(n: u32) -> u32 {
     match n {
         0 => 0,
         1 => 1,
-        _ => fib_rec(n - 1) + fib_rec(n - 2)
+        _ => fib_rec(n - 1) + fib_rec(n - 2),
     }
 }
 

@@ -5,7 +5,7 @@
 // Gets the angle of the hand when it points to a min marker, with respect to 0 minutes (12 O'Clock)
 fn get_angle_of_minute_marker(min_marker: f32) -> f32 {
     if min_marker == 0.0 {
-        return 0.0
+        return 0.0;
     }
 
     (min_marker as f32 / 60.0) * 360.0
