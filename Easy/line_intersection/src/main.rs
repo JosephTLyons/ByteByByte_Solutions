@@ -2,6 +2,7 @@
 // intersect.
 
 // eg: intersect(2x + 5, 3x + 10) = True
+// Solved
 
 // This solution makes the assertion that two lines that are exactly the same are intersecting, with
 // infinitely many points of intersection, this may not be correct to others, but its how I
