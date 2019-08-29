@@ -13,5 +13,6 @@ variety of languages
         - [Swap Variables](./byte_by_byte/Easy/swap_variables/src/main.rs)
 - [JavaRevisited](https://javarevisited.blogspot.com/2011/06/top-programming-interview-questions.html)
     - String Programming Interview Questions
+        - [Anagram](./java_revisited/string_programming/anagram.py)
         - [Remove Character](./java_revisited/string_programming/remove_char.py)
         - [String Palindrome](./java_revisited/string_programming/string_palindrome.py)
