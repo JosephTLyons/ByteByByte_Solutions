@@ -1,5 +1,8 @@
 #!/usr/bin/env python3
 
+# Write code to check a String is palindrome or not
+# Solved
+
 def checkIfPalindrome(text):
     text = text.lower()
     textLength = len(text)
