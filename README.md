@@ -1,6 +1,5 @@
 # Interview_Question_Solutions
-My solutions to various interview questions from various sources, using a
-variety of languages
+My solutions to various coding interview questions.
 
 # Problems
 - [ByteByByte](https://www.byte-by-byte.com/coding-interview-questions/)
