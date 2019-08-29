@@ -1,5 +1,6 @@
 # Interview_Question_Solutions
-My solutions to various interview questions from various sources
+My solutions to various interview questions from various sources, using a
+variety of languages
 
 # Problems
 - [ByteByByte](https://www.byte-by-byte.com/coding-interview-questions/)
@@ -17,4 +18,4 @@ My solutions to various interview questions from various sources
         - Rotate Bits: **pending**
 - [JavaRevisited](https://javarevisited.blogspot.com/2011/06/top-programming-interview-questions.html)
     - String Programming Interview Questions
-        - [String Palindrome](./java_revisited/string_palindrome.py)
+        - [String Palindrome](./java_revisited/string_programming/string_palindrome.py)
