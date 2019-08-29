@@ -14,3 +14,4 @@ variety of languages
 - [JavaRevisited](https://javarevisited.blogspot.com/2011/06/top-programming-interview-questions.html)
     - String Programming Interview Questions
         - [String Palindrome](./java_revisited/string_programming/string_palindrome.py)
+        - [Remove Character](./java_revisited/string_programming/remove_char.py)
