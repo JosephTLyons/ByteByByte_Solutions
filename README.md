@@ -5,17 +5,12 @@ variety of languages
 # Problems
 - [ByteByByte](https://www.byte-by-byte.com/coding-interview-questions/)
     - Easy
-        - [Integer To Roman Numerals](./Easy/integer_to_roman_numerals):
-        - **unsolved**
-        - Linked List Cycles: **skipped**
-        - [Swap Variables](./Easy/swap_variables): **solved**
-        - [Clock Angle](./Easy/clock_angle): **solved**
-        - [Fibonacci Number](./Easy/fibonacci_number): **solved**
-        - [Line Intersection](./Easy/line_intersection): **solved**
-        - Print Reversed Link List: **skipped**
-        - Gray Code: **pending**
-        - Merge Arrays: **pending**
-        - Rotate Bits: **pending**
+        - [Integer To Roman Numerals](./byte_by_byte/Easy/integer_to_roman_numerals):
+          **unsolved**
+        - [Swap Variables](./byte_by_byte/Easy/swap_variables)
+        - [Clock Angle](./byte_by_byte/Easy/clock_angle)
+        - [Fibonacci Number](./byte_by_byte/Easy/fibonacci_number)
+        - [Line Intersection](./byte_by_byte/Easy/line_intersection)
 - [JavaRevisited](https://javarevisited.blogspot.com/2011/06/top-programming-interview-questions.html)
     - String Programming Interview Questions
         - [String Palindrome](./java_revisited/string_programming/string_palindrome.py)
