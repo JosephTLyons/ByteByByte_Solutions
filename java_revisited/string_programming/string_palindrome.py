@@ -3,7 +3,7 @@
 # Write code to check a String is palindrome or not
 # Solved
 
-def checkIfPalindrome(text):
+def isPalindrome(text):
     text = text.lower()
     textLength = len(text)
     textLengthToCheck = int(textLength / 2)
@@ -15,12 +15,12 @@ def checkIfPalindrome(text):
     return True
 
 # Should return true
-print(checkIfPalindrome("racecar"))
-print(checkIfPalindrome("tattarrattat"))
-print(checkIfPalindrome("MalayalAm"))
+print(isPalindrome("racecar"))
+print(isPalindrome("tattarrattat"))
+print(isPalindrome("MalayalAm"))
 
 # Should return false
-print(checkIfPalindrome("face"))
-print(checkIfPalindrome("boy"))
-print(checkIfPalindrome("mountain"))
-print(checkIfPalindrome("rick james"))
+print(isPalindrome("face"))
+print(isPalindrome("boy"))
+print(isPalindrome("mountain"))
+print(isPalindrome("rick james"))
