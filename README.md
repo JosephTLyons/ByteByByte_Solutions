@@ -15,3 +15,5 @@ My solutions to various interview questions from various sources
         8. Gray Code: **pending**
         9. Merge Arrays: **pending**
         10. Rotate Bits: **pending**
+- [JavaRevisited](https://javarevisited.blogspot.com/2011/06/top-programming-interview-questions.html)
+    - 1. [String Palindrome](./java_revisited/string_palindrome.py)
