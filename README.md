@@ -15,3 +15,6 @@ My solutions to various coding interview questions.
         - [Anagram](./java_revisited/string_programming/anagram.py)
         - [Remove Character](./java_revisited/string_programming/remove_char.py)
         - [String Palindrome](./java_revisited/string_programming/string_palindrome.py)
+- [InterviewBit](https://www.interviewbit.com/coding-problems/)
+    - Strings
+        - [Length of Last Word](./interview_bit/length_of_last_word.py)
